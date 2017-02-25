@@ -9,6 +9,8 @@
   - Akshay Penmatcha
   - Shalmali Kulkarni
 
+### ------------------------------------------
+
 ### Plotting the distribution according to the data
 
 ### Using different distributions (2 to be precise to distribute the data)
@@ -25,10 +27,7 @@
   - Anderson-Darling - with Logistic Distribution
   - KS Test - with Logistic Distribution
 
-### Following the Instructor's (Federica Bianco) code and skeleton notebook
-### Part 7 - Reasoning given
-
-### The assignment has been done as a notebook as well as added in this README.md file.
+### ------------------------------------------
 
 ### Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
@@ -47,6 +46,8 @@
 
 ##### Significance Level - 0.05 or 5%
 
+### ------------------------------------------
+
 ## 2. Do American trust the president?
   - POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From
   everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p.
@@ -64,6 +65,8 @@
 
 ##### Significance Level - 0.05 or 5%
 
+### ------------------------------------------
+
 ## 3. Effectiveness of nicotine patches to quit smoking.
   - Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a
   placebo patch.
@@ -80,6 +83,8 @@
 
 ##### Significance Level - 0.05 or 5%
 
+### ------------------------------------------
+
 ## 4. Quantify the danger of smoking for pregnant women.
   - Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
 
@@ -94,3 +99,5 @@
 ### H_a : IQ(smoking) <= IQ(non−smoking)
 
 ##### Significance Level - 0.05 or 5%
+
+### ------------------------------------------
