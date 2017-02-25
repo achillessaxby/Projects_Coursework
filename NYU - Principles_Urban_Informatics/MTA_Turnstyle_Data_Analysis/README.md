@@ -1,5 +1,3 @@
-# PUI2016 - HW9_aes807
-
 ## Achilles Edwin Alfred Saxby (aes807)
 
 ## MTA Turnstyle Data [Time-Series and Fourier Transform]
