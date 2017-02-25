@@ -68,7 +68,7 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 
 ### ------------------------------------------
 
-### Group that worked together on the Tasks 3 and 4 - discussed together and worked individually :
+### Group that worked together on the Tasks 3 and 4 :
   - Vishwajeet Shelar
   - Aaron D'Souza
   - Akshay Penmatcha
