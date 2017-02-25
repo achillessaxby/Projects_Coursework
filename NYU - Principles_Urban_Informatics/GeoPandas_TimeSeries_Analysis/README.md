@@ -1,4 +1,3 @@
-### HW11_aes807
 ### Achilles Edwin Alfred Saxby
 ### aes807
 
@@ -13,8 +12,8 @@
   - Nonie Mathur
 
 ### Files in the Repository:
-- Assignment_1_Solutions
-- Assignment_2_Solutions
+- Task_1_Solutions
+- Task_2_Solutions
 - Data that was used during the assignment solutions
   - Data_Used
 - Code that was used during the assignment solutions
