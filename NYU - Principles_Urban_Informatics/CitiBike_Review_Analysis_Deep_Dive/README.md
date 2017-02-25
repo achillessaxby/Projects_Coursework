@@ -1,8 +1,5 @@
-# Achilles Edwin Alfred Saxby.
-# aes807
-# PUI Homework 5 - (HW5_aes807)
-
-# ----------------------
+## Achilles Edwin Alfred Saxby.
+## aes807
 
 ### People Collaborated with:
   - Anastasia Shegay
@@ -11,10 +8,6 @@
   - Priyanshi Singh
   - Akshay Penmatcha
   - Shalmali Kulkarni
-
-# ---------------------- 
-
-## Assignment 1: Notebook -> HW5_Assignment_1_Solutions_aes807.ipynb
 
 ### Plotting the distribution according to the data
 
@@ -32,16 +25,8 @@
   - Anderson-Darling - with Logistic Distribution
   - KS Test - with Logistic Distribution
 
-# ---------------------- 
-
-## Assignment 2: Notebook -> HW5_Assignment_2_Solutions_aes807.ipynb
-
 ### Following the Instructor's (Federica Bianco) code and skeleton notebook
 ### Part 7 - Reasoning given
-
-# ----------------------
-
-## Assignment 3: Notebook -> HW5_Assignment_3_Solutions_aes807.ipynb
 
 ### The assignment has been done as a notebook as well as added in this README.md file.
 
@@ -109,5 +94,3 @@
 ### H_a : IQ(smoking) <= IQ(non−smoking)
 
 ##### Significance Level - 0.05 or 5%
-
-# ----------------------
