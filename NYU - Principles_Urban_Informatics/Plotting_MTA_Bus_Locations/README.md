@@ -1,28 +1,24 @@
-# PUI2016_aes807: HW-2
-
 ## Achilles Edwin Alfred Saxby - aes807
 
-## Assignment - 1 : show_bus_locations_aes807.py
+## Task - 1 : show_bus_locations_aes807.py
 #### Practice code also published here - Assignment_1 - Coding Practice.ipynb
 
 - Created a Python script that can be run from any terminal as long as they are in this directory itself.
 - The two(2) inputs that will be given are already taken into consideration to give the desired output.
 
-## Assignment - 2: get_bus_info_aes807.py
+## Task - 2: get_bus_info_aes807.py
 #### Practice code also published here - Assignment_2 - Coding Practice.ipynb
 
 - Created in the same way as the first - only difference is that there are two more variables for the input and output.
 
-## Assignment - 3:
+## Task - 3:
 #### Practice code is the main code and it is published here under Assignment_3_Solutions_aes807.ipynb
 
-## Assignment - Extra Credit:
+## Extra - Task:
 #### The code is on github and the practice code is on jupyter.
 
 - Did not work on it by myself at all - used help from Vishwajeet and basically copied his whole code because I could not figure out how the date/time format worked out in the problem.
 - The code is an exact match of Vishwajeet - I was trying to learn and understand but since I created it - I pushed it to github.
-
-## Lab-2 - Used as a guideline to complete the assignments.
 
 ### People collaborated with:
 
